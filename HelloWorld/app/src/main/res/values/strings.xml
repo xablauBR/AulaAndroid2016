@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="helloWorld">Hello World 6 período</string>
+    <string name="birl">BIIIIIRRRRRRLLLLL</string>
+    <string name="dicaInput">Digite seu nome!!!</string>
+    <string name="textoBotao">Não clique aqui seu louco</string>
+    <string name="testeR">Teste classe R</string>
+</resources>
